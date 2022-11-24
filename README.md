@@ -15,7 +15,8 @@
 
 - [Live Demo Link](https://collins-kiprotich.github.io/conference/)
 
-
+## 🎞️ video walkthrough
+- This is a [loom video](https://www.loom.com/share/0f298268d9a243e2a190c05e02a70561) of myproject
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
