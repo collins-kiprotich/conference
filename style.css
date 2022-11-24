@@ -159,7 +159,7 @@ nav button {
   padding-bottom: 10px;
 }
 
-#homepage h2 {
+#homepage h1 {
   color: #ec5242;
   margin-bottom: 15px;
   font-size: 24px;
@@ -167,7 +167,7 @@ nav button {
   letter-spacing: 3px;
 }
 
-#homepage h1 {
+#homepage h2 {
   color: #ec5242;
   font-size: 100px;
   font-weight: 700;

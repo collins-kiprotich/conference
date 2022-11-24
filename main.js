@@ -6,8 +6,8 @@ menuDiv.style.display = 'none';
 const divContent = `<div class="mobile-div">
 <div class="cross-icon">X</div>
 <div class="home-about-container">
-    <div class='mobile-homepage'><a href="#homepage">Homepage</a></div>
-    <div class='mobile-about'><a href="#about2">About</a></div>
+    <div class='mobile-homepage'><a href="./index.html">Homepage</a></div>
+    <div class='mobile-about'><a href="./about.html">About</a></div>
 </div>
 </div>`;
 menuDiv.innerHTML = divContent;
