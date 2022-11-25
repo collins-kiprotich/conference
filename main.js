@@ -83,7 +83,7 @@ const speakers = [
 ];
 const speakerArray = [];
 speakers.forEach((item) => {
-  const speakerDispaly = `<div><img class="speaker-image" src="${item.image}" alt=""></div>
+  const speakerDispaly = `<div><img class="speaker-image" src="${item.image}" alt="${item.Name}"></div>
     <div class="speaker-description">
         <div class="speaker-name">${item.Name}</div>
         <div class="profession-des">${item.Description}</div>
