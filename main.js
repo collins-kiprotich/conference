@@ -47,7 +47,7 @@ const speakers = [
   {
     id: 'speaker-2',
     Name: 'James Mwangi',
-    image: '../images/Ramaphosa.jpg',
+    image: './images/Ramaphosa.jpg',
     quote: 'Climates change is a great matter for concern, we need to act urgently',
     Description: 'Phd Havard University, Masters Degree',
   },
